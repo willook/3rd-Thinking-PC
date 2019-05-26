@@ -4,10 +4,10 @@
 ### 문제
 어떤 사각형의 네 꼭짓점이 원과 접할 때 이 사각형이 원에 내접한다고 한다. 세 선분이 주어지고 그중 가장 긴 선분이 내접할 원의 지름과 같을 때, 나머지 한 선분의 길이를 구하여라.
 
-![ALT_TEXT](https://github.com/HyeockJinKim/3rd-Thinking-PC/blob/master/C/image/image1.png)
+![ALT_TEXT](https://github.com/willook/3rd-Thinking-PC/blob/master/E/image/image1.png)
 
 
-![ALT_TEXT](https://github.com/HyeockJinKim/3rd-Thinking-PC/blob/master/C/image/image2.png)
+![ALT_TEXT](https://github.com/willook/3rd-Thinking-PC/blob/master/E/image/image2.png)
 
 톨레미의 정리에 따르면 다음과 같이 원에 내접한 사각형은 마주 보는 두 쌍의 변의 곱의 합이 두 대각선의 곱과 같다.
 
